@@ -1,10 +1,10 @@
-# jemdoc: menu{MENU}{intro.html}
+# jemdoc: menu{MENU}{publications.html}
 # jemdoc: nodate
 # jemdoc: notime
 = Shiyao Zhang
 
 == Journal Publications
-% (\*) Corresponding Author.%
+% (*) Corresponding Author.%
 - \[1\]	Shuyu Zhang, Chenhan Zhang, *Shiyao Zhang*, James J.Q. Yu\*, “Attention-Driven Recurrent Imputation for Traffic Speed,” Transportation Research Part C: Emerging Technology (TR_C), submitted.
 - \[2\]	*Shiyao Zhang*, Xingzheng Zhu, and James J.Q. Yu\*, “Non-Cooperative and Cooperative Game Theoretic Approaches for Urban Intelligent System,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), submitted.
 - \[3\]	*Shiyao Zhang*, and James J.Q. Yu\*, “Autonomous Vehicle Intelligent System: Joint Ride-Sharing and Parcel Delivery Strategy,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), submitted.
@@ -18,7 +18,7 @@
 - \[11\]	*Shiyao Zhang*, and Ka-Cheong Leung\*, “Joint Optimal Power Flow Routing with Vehicle-to-Grid Scheduling: Theory and Algorithms,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press.
 
 == Conference Publications
-%(\*) Corresponding Author.%                                                                                          
+%(*) Corresponding Author.%
 - \[1\]	Chenhan Zhang, *Shiyao Zhang*, Shui Yu, James J.Q. Yu, “Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning,” Proceedings of the IEEE Wireless Communications and Networking Conference (IEEE WCNC 2021), submitted.
 - \[2\]	*Shiyao Zhang*, and Ka-Cheong Leung\*, “Data-Driven Frequency Regulation Reserve Prediction Based on Deep Learning Approach,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2021), Aachen, Germany, 25-28 October 2021.
 - \[3\]	Yongchao Ye, *Shiyao Zhang*, and James J.Q. Yu\*, “Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network,” Proceedings of the 30th International Conference on Artificial Neural Networks (ICANN 2021), Bratislava, Slovakia, 14-17 September 2021.
